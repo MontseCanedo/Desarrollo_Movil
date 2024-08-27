@@ -1,5 +1,5 @@
 # Desarrollo_Móvil
-Scripts y proyectos sobre todo lo relacionado con desarrollo de aplicaciones móviles.
+Scripts y proyectos sobre todo lo relacionado con desarrollo de aplicaciones móviles desarrolladas con Flutter y Dart.
 
 ## Ramas:
 * Toktik: Aplicación de reproducción de vídeos.
